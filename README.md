@@ -12,3 +12,4 @@ Add new utility script
 Update dependencies
 Improve performance
 Improve logging
+Polish UI layout
