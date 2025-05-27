@@ -2,3 +2,4 @@
 Add documentation
 Polish UI layout
 Update configuration
+Change theme color
